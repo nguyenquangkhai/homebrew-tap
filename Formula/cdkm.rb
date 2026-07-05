@@ -1,5 +1,5 @@
 class Cdkm < Formula
-  desc "Terragrunt-style parallel fan-out for AWS CDK — deploy to every account from your laptop"
+  desc "Parallel AWS CDK deploy/diff/destroy across many accounts"
   homepage "https://github.com/nguyenquangkhai/cdk-manager"
   version "0.5.0"
   license "Apache-2.0"
